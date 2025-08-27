@@ -1,3 +1,5 @@
 .venv/
 .env
 soap_note*
+soap_notes*
+flag_red_notes_dir
